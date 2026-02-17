@@ -82,8 +82,8 @@ ai_backtest/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/llm-agent-behavioral-patterns-crypto.git
-cd llm-agent-behavioral-patterns-crypto/ai_backtest
+git clone https://github.com/gerkeyk/llm-agent-behavioral-patterns-crypto.git
+cd llm-agent-behavioral-patterns-crypto
 ```
 
 2. **Create virtual environment:**
@@ -294,7 +294,7 @@ If you use this code or findings in your research, please cite:
   year={2025},
   school={Your High School},
   type={Research Thesis},
-  note={Code: https://github.com/yourusername/llm-agent-behavioral-patterns-crypto}
+  note={Code: https://github.com/gerkeyk/llm-agent-behavioral-patterns-crypto}
 }
 ```
 
@@ -320,7 +320,7 @@ MIT License - See LICENSE file for details.
 ## Contact
 
 For questions about this research:
-- **GitHub Issues:** [Project Issues Page](https://github.com/yourusername/llm-agent-behavioral-patterns-crypto/issues)
+- **GitHub Issues:** [Project Issues Page](https://github.com/gerkeyk/llm-agent-behavioral-patterns-crypto/issues)
 - **Email:** your.email@example.com
 
 ---
