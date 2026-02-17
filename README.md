@@ -1,6 +1,6 @@
 # Investigating Large Language Model Agent Behavioral Patterns in Cryptocurrency Markets
 
-**Research Thesis:** *Suure keelemudeli agendi käitumismustrite uurimine krüptoturgudel*
+**Research Thesis:** *Suure keelemudeli agendi käitumismustrite uurimine krüptoturgudel kolme käitumusliku mänguteooria mudeli alusel*
 
 This repository contains the implementation code and behavioral analysis framework for a high school research thesis examining how GPT-4o-mini trading agents exhibit behavioral patterns consistent with bounded rationality models from game theory when making cryptocurrency trading decisions.
 
