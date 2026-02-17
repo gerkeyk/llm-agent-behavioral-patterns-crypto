@@ -288,11 +288,11 @@ Position sizes correlate strongly with portfolio imbalances, showing:
 If you use this code or findings in your research, please cite:
 
 ```bibtex
-@mastersthesis{yourname2025llm,
+@mastersthesis{maapalu2025llm,
   title={Investigating Large Language Model Agent Behavioral Patterns in Cryptocurrency Markets},
-  author={Your Name},
+  author={Ralf Maapalu},
   year={2025},
-  school={Your High School},
+  school={Tallinna Reaalkool},
   type={Research Thesis},
   note={Code: https://github.com/gerkeyk/llm-agent-behavioral-patterns-crypto}
 }
@@ -315,17 +315,18 @@ MIT License - See LICENSE file for details.
 - **Behavioral Game Theory:** Stahl & Wilson (1994), Camerer et al. (2004), Fehr & Schmidt (1999)
 - **Data Sources:** Binance API, Alternative.me Fear & Greed Index
 - **AI Provider:** OpenAI GPT-4o-mini
-- **Thesis Advisor:** [Your Advisor Name]
+- **Author:** Ralf Maapalu, Tallinna Reaalkool
 
 ## Contact
 
 For questions about this research:
 - **GitHub Issues:** [Project Issues Page](https://github.com/gerkeyk/llm-agent-behavioral-patterns-crypto/issues)
-- **Email:** your.email@example.com
+- **Email:** ralf.maapalu@gmail.com
 
 ---
 
 **Research Period:** 2024-2025
-**Institution:** Your High School Name
+**Author:** Ralf Maapalu
+**Institution:** Tallinna Reaalkool (Tallinn Secondary Science School)
 **Thesis Language:** Estonian
 **Code Documentation:** English
