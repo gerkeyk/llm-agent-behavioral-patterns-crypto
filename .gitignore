@@ -1,0 +1,115 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Sensitive data patterns
+*api_key*
+*secret*
+*credentials*
+*token*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files (large datasets, results)
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Logs
+*.log
+*.pid
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Data directories (keep structure, ignore contents)
+data/historical/*.csv
+data/historical/*.json
+data/exports/*.csv
+data/checkpoints/*.json
+backtest_data/*.csv
+
+# Analysis results (keep sample, ignore full results)
+analysis_results.json
+analysis_report.txt
+analysis_qre_results.json
+analysis_qre_report.txt
+analysis_rerun.log
+outcome_evaluation.log
+feargreed_update.log
+
+# Node modules (if any JS/TS tools used)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
